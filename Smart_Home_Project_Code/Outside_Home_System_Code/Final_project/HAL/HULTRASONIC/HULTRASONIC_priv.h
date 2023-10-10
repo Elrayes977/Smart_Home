@@ -1,0 +1,15 @@
+/*
+ * HULTRASONIC_priv.h
+ *
+ *  Created on: Jun 21, 2023
+ *      Author: elray
+ */
+
+#ifndef HAL_HULTRASONIC_HULTRASONIC_PRIV_H_
+#define HAL_HULTRASONIC_HULTRASONIC_PRIV_H_
+
+#define FCPU 16UL
+#define PRESCALER1024 1024
+#define SPEED_OF_SOUND 34300
+
+#endif /* HAL_HULTRASONIC_HULTRASONIC_PRIV_H_ */

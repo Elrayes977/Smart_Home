@@ -1,2 +1,2 @@
-# Smart_Home
- This project involved the development of two distinct systems: an Outside Home system and an Inside Home system, each designed to enhance convenience, security, and energy efficiency. We established a communication channel between two AVR microcontrollers (ATmega32), using the UART protocol.
+# Smart_Home_Updated
+ Here are the latest modifications to the smart home project that was uploaded about a month ago, where the UART communicaton protocol between the 2 AVR micro controller and some additions with modifications to the proteus, code, and video.
